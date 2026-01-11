@@ -32,8 +32,19 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Summary Cards
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shardul369-coder&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shardul369-coder&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shardul369-coder&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shardul369-coder&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shardul369-coder&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shardul369-coder&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shardul369-coder&theme=tokyonight&utcOffset=8" />
+</p>
+
